@@ -56,11 +56,11 @@ git checkout -b newbranch
 
 # working with remote repository
 
-##Pushing the branch to Git
+## Pushing the branch to Git
+
 git push origin <branch-name>
 
-#syncing with remote repository
-git pull origin master
+## syncing with remote repository
 
 git push origin branchname
 
