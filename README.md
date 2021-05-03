@@ -7,6 +7,7 @@ and turn it into a Git repository, or
 ## Creating New Repo and working from commandline.
 
 goto github and create a empty github repo.
+
 goto command line on a bash shell.
 echo "# urprojectname" >> README.md
 git init
