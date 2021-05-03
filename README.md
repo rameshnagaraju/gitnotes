@@ -56,9 +56,9 @@ git checkout -b newbranch
 
 # working with remote repository
 
-## Pushing the branch to Git
+## pulling the code from remote repo
 
-git push origin <branch-name>
+git pull origin master
 
 ## syncing with remote repository
 
