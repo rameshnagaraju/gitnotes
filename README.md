@@ -64,7 +64,7 @@ git pull origin master
 
 git push origin branchname
 
-#Adding branch name on path 
+# Adding branch name on path 
 
 Add the following code in .bash_profile:
 
